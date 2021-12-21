@@ -1,0 +1,15 @@
+ NIC100 =  The Embedded NIC 1 Port 1 network link is down.
+#JIT-193972
+ UEFI0323 =  The iDRAC is successfully functioning, but operating in the Manufacturing Mode.
+#JIT-156404
+ UEFI0324 =  iDRAC is running in an unprotected mode. Do not allow unauthorized access to iDRAC while in this mode.
+ UEFI0074 =  The Secure Boot policy has been modified since the last time the system was started.
+ PR8 =  Device not detected:
+ RED023 =  Lifecycle Controller in use. This job will start when Lifecycle Controller is available.
+#Debug command message, no mind.
+ FSD002 =  Debug authorization failed; for debugCaps: rootshellash, authorized by iDRAC user: root, and Dell employee: fsdaf_admin_team
+#iDRAC license expire message
+ LIC201 =  License assigned to device iDRAC expires in X days.
+ LIC207 =  License on device iDRAC has expired.
+#iSM installation exception
+ ISM0007 =  The iDRAC Service Module communication with iDRAC has ended.

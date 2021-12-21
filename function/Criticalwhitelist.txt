@@ -1,0 +1,2 @@
+#JIT-168864
+ SEL1518 =  The performance of CPUX is automatically readjusted by Chassis Controller because of unacceptable change in the thermal and power conditions.
